@@ -35,6 +35,7 @@
 - ICPC Preliminary Round participant — strong problem-solving & algorithmic skills  
 
 ---
+[![An image of @priyankgaur's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyankgaur)](https://holopin.io/@priyankgaur)
 
 ## 📫 Let’s Connect
 
